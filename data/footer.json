@@ -1,0 +1,25 @@
+{
+  "copyright": {
+    "text": "© 2026 HAMSIKA CHINTAKUNTLA. All rights reserved.",
+    "year": "2026",
+    "name": "HAMSIKA CHINTAKUNTLA"
+  },
+  "tagline": "Crafted with passion and dedication",
+  "links": [
+    {
+      "text": "Email",
+      "href": "mailto:chintakuntlahamsika@gmail.com"
+    }
+  ],
+  "socialLinks": [
+    {
+      "platform": "Email",
+      "url": "mailto:chintakuntlahamsika@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ],
+  "backToTop": {
+    "text": "Back to Top",
+    "icon": "fas fa-chevron-up"
+  }
+}
